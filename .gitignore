@@ -30,3 +30,11 @@ BUILD/
 *.exe
 *.out
 *.app
+BUILD
+.mbed
+iotkit
+mbed-cloud-client
+mbed-os
+drivers/COMPONENT_WIFI_ESP32
+drivers/COMPONENT_WIFI_ISM43362
+drivers/storage/COMPONENT_NUSD
