@@ -55,4 +55,7 @@ Dafür müssen zuerst die Zugriffsinformationen (Datei `mbed_cloud_dev_credentia
 
 ### Links
 
+* [OMA LightweightM2M (LwM2M) Object and Resource Registry](http://openmobilealliance.org/wp/OMNA/LwM2M/LwM2MRegistry.html)
+* [Pelion Documentation](https://developer.pelion.com/docs/)
+* [Pelion API User Guide](https://developer.pelion.com/docs/connectivity/API/Intro/Introduction.htm)
 * [Pelion Dashboard](https://portal.mbedcloud.com/)
